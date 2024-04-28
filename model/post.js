@@ -5,4 +5,6 @@ class post {
         this.body = body;
     }
 }
-let post = new post(1,'test', 'test test test');
+let post = new post(2,'test1', 'test test test1');
+
+
