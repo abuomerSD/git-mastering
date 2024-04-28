@@ -1,4 +1,4 @@
 function addPost(post) {
-    console.log(`post added ${post}`);
+    console.log(`post saved ${post}`);
     return true;
 }
