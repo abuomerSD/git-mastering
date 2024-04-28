@@ -1,5 +1,5 @@
 function addPost(post) {
-    console.log(`post added ${post}`);
+    console.log(`post added new ${post}`);
 }
 
 function deletePost(post){
