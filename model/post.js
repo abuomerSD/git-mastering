@@ -7,4 +7,4 @@ class post {
 }
 let post = new post(2,'test1', 'test test test1');
 
-
+let post2 = new post(3, 'test2', 'test test test2');
