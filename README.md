@@ -1,2 +1,2 @@
-mastering git and github 
+mastering git & github 
 2024
